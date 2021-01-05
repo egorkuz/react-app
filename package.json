@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://sergey012345.github.io/react-app/",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "react": "^16.9.0",
     "react-beforeunload": "^2.1.0",
